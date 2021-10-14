@@ -8,7 +8,7 @@
 
 </header>
 <head>
-    <title>Dropdown Ajax</title>
+    <title>Order pizza</title>
 
 <body>
 <div class="row m-5">
